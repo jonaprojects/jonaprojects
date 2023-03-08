@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... React & Calculus
 - 💞️ I’m looking to collaborate on ... New initiatives
-- 📫 How to reach me ... You can reach me via E-mail in kiwicalc@gmail.com 
+- 📫 How to reach me ... You can reach me via E-mail at kiwicalc@gmail.com 
 
 <!---
 jonaprojects/jonaprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
