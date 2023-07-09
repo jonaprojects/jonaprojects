@@ -2,6 +2,7 @@
 
 <h1>Hi 👋, I'm Jonathan</h1>
 <h3 >A Computer Science Student & Developer</h3>
+<img src="profileBanner.png" style="width: 100%" />
 <p>It won't be an exaggeration to say that I am infatuated with this world - Databases, Web design, Information Security, and even Machine Learning - 
 I find all of those utterly fascinating.
 I am proficient in Python and C# and work well with CSS, HTML, JS, Bootstrap Jquery, React, and React Native. 
