@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonaprojects&label=Profile%20views&color=0e75b6&style=flat" alt="jonaprojects" /> </p>
 
 <h3> About me </h3>
-<p>It won't be an exaggeration to say that I am infatuated with this world - Databases, Web design, Information Security, and even Machine Learning - 
+<p>It won't be an exaggeration to say that I am infatuated with the world of Computer Science - Databases, Web design, Information Security, and even Machine Learning - 
 I find all of those utterly fascinating.
 I am proficient in Python and C# and work well with CSS, HTML, JS, Bootstrap Jquery, React, and React Native. 
 While I like to study the theoretical aspects of Computer Science, I enjoy developing and "getting my hands dirty" much more.
